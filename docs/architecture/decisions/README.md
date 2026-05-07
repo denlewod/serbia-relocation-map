@@ -40,4 +40,4 @@ A superseded ADR is **never deleted** — it stays as part of the history.
 
 ## List of ADRs
 
-*(none yet — first ADR coming soon)*
+- [ADR-0001: Backend and database from day one](./0001-backend-and-database-from-day-one.md) — **Accepted**
